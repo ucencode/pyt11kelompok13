@@ -11,7 +11,7 @@ Ini adalah final project kelas Python 11 Kelompok 13 yg memuat sampel analisis d
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/mbenkzz/pyt11kelompok13.git
+git clone https://github.com/ucencode/pyt11kelompok13.git
 ```
 
 2. Masuk ke folder hasil clone
